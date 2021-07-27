@@ -1,3 +1,19 @@
 // Place all the styles related to the home controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+.menu{
+    width: 200px;
+    height: 100%;
+    text-align: center;
+    padding-top: 10px;
+    background-color:deepskyblue;
+}
+
+html,body{
+    height: 100%;
+}
+/*html,bodyもheight:100%にすることで画面サイズに合わせて高さを指定できる*/
+
+body{
+    margin-left: 0%;
+}
